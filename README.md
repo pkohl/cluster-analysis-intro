@@ -17,12 +17,14 @@ via distortion, as defined in alg_p3_core.py).
 
 Project files:
 
-alg_cluster:     Implements the cluster class.  Cluster objects contain collections of 
-                 counties, their populations, and their coordinates.  
+alg_cluster:     
+Implements the cluster class.  Cluster objects contain collections of 
+counties, their populations, and their coordinates.  
                  
-alg_p3_core:     Contains the core clustering algorithms, including those for building
-                 up clusters using either k-means or hierarchical clustering, and those
-                 for characterizing the quality of a cluster via distortion.
+alg_p3_core:     
+Contains the core clustering algorithms, including those for building
+up clusters using either k-means or hierarchical clustering, and those
+for characterizing the quality of a cluster via distortion.
                  
 alg_clusters_matplotlib:  
                  

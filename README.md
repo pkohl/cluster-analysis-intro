@@ -26,5 +26,11 @@ Contains the core clustering algorithms, including those for building
 up clusters using either k-means or hierarchical clustering, and those
 for characterizing the quality of a cluster via distortion.
                  
-alg_clusters_matplotlib:  
+alg_p3_viz:
+Contains various utility routines for loading and visualizing data
+
+main:
+Functions that accomplish the specific tasks demanded by the project, involving
+executing various algorithms and collecting and displaying the resulting data.
+
                  
